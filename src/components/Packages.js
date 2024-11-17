@@ -15,9 +15,9 @@ function Packages() {
         "Perfect for small events"
       ],
       images: [
-        "/images/basic1.jpeg",
-        "/images/basic2.jpeg",
-        "/images/basic3.jpeg"
+        "shagun/images/basic1.jpeg",
+        "shagun/images/basic2.jpeg",
+        "shagun/images/basic3.jpeg"
       ]
     },
     {
@@ -32,7 +32,7 @@ function Packages() {
         "Ideal for special occasions"
       ],
       images: [
-        "/images/premium.jpeg"
+        "shagun/images/premium.jpeg"
     ]
     },
     {
@@ -47,8 +47,8 @@ function Packages() {
         "Free touch-up service"
       ],
       images: [
-        "/images/bridal.jpeg",
-        "/images/bridal2.jpeg"
+        "shagun/images/bridal.jpeg",
+        "shagun/images/bridal2.jpeg"
       ]
     }
   ];

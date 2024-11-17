@@ -69,7 +69,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="images/henna_logo.png" alt="SR Negi Mehendi Art Logo" className="logo animate__animated animate__fadeIn" />
+        <img src="shagun/images/henna_logo.png" alt="SR Negi Mehendi Art Logo" className="logo animate__animated animate__fadeIn" />
         <nav className="animate__animated animate__slideInDown">
           <a href="#home">Home</a>
           <a href="#packages">Packages</a>
@@ -80,7 +80,7 @@ function App() {
       
       <section id="home" className="hero-container">
         <div className="hero-image">
-          <img src="/images/wallpaper.jpg" alt="Mehendi Design Background" />
+          <img src="shagun/images/wallpaper.jpg" alt="Mehendi Design Background" />
         </div>
       </section>
       
